@@ -8,7 +8,7 @@ function App() {
       <p>react app is working good!</p>
       <a href='https://www.youtube.com/'>click here</a>
       <button>check</button>
-      <h1>this was edited in github</h1>
+      <h1>working in github</h1>
     </div>
   );
 }
